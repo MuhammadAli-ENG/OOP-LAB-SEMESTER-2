@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 2\\Self task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4595E508-A651-4D38-99F6-16170062DD3F}|Self task 1.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 2\\self task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4595E508-A651-4D38-99F6-16170062DD3F}|Self task 1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4595E508-A651-4D38-99F6-16170062DD3F}|Self task 1.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 2\\self task 1\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4595E508-A651-4D38-99F6-16170062DD3F}|Self task 1.csproj|solutionrelative:dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 2\\Self task 1\\Dog.cs",
+              "RelativeDocumentMoniker": "Dog.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 2\\Self task 1\\Dog.cs",
+              "RelativeToolTip": "Dog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:40:33.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 2\\Self task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 2\\Self task 1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-29T09:33:00.693Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

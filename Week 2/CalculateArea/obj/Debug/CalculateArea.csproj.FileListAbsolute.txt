@@ -1,0 +1,7 @@
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\bin\Debug\CalculateArea.exe.config
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\bin\Debug\CalculateArea.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\bin\Debug\CalculateArea.pdb
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\obj\Debug\CalculateArea.csproj.AssemblyReference.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\obj\Debug\CalculateArea.csproj.CoreCompileInputs.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\obj\Debug\CalculateArea.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\CalculateArea\obj\Debug\CalculateArea.pdb

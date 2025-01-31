@@ -1,0 +1,7 @@
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\bin\Debug\Tast1.exe.config
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\bin\Debug\Tast1.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\bin\Debug\Tast1.pdb
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\obj\Debug\Tast1.csproj.AssemblyReference.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\obj\Debug\Tast1.csproj.CoreCompileInputs.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\obj\Debug\Tast1.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Tast1\obj\Debug\Tast1.pdb

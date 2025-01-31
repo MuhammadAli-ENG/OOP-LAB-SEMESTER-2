@@ -1,0 +1,7 @@
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\bin\Debug\Self Task-3.exe.config
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\bin\Debug\Self Task-3.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\bin\Debug\Self Task-3.pdb
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\obj\Debug\Self Task-3.csproj.AssemblyReference.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\obj\Debug\Self Task-3.csproj.CoreCompileInputs.cache
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\obj\Debug\Self Task-3.exe
+E:\Study Work\UET\Study\Semester 2\OOP\lab\Week 2\Self Task-3\obj\Debug\Self Task-3.pdb
