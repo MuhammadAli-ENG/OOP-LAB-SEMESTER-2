@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_4.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 4\\challange_4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_4.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 4\\challange_4\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|solutionrelative:book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 4\\challange_4\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|solutionrelative:member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|e:\\study work\\uet\\study\\semester 2\\oop\\lab\\week 4\\challange_4\\bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8512FE8-ADC5-4A7B-9CDE-2F91977DC6BF}|Challange_3.csproj|solutionrelative:bookstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bookstore.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Bookstore.cs",
+              "RelativeDocumentMoniker": "Bookstore.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Bookstore.cs",
+              "RelativeToolTip": "Bookstore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:25:35.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Member.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Member.cs",
+              "RelativeDocumentMoniker": "Member.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Member.cs",
+              "RelativeToolTip": "Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:25:00.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Book.cs",
+              "RelativeDocumentMoniker": "Book.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Book.cs",
+              "RelativeToolTip": "Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:24:18.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Study Work\\UET\\Study\\Semester 2\\OOP\\lab\\Week 4\\Challange_4\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T10:23:42.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
